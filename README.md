@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @singhpratik5
 - 👀 I’m interested in software developement.
-- 🌱 I’m currently learning Machine Learning.
+- 🌱 I’m currently learning Gen AI and Machine Learning.
 - 💞️ I’m looking to collaborate on distinctive projects.
 - 📫 How to reach me : Mail: pratiksingh2k06@gmail.com
 - 😄 Pronouns: He/Him
